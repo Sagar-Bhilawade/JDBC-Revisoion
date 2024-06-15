@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SLF4j AND SQLITE driver">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Database connectors/slf4j-api-1.7.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Database connectors/slf4j-simple-1.7.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Database connectors/sqlite-jdbc-3.36.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
